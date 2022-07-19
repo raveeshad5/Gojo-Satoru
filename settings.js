@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94787459795']
-global.premium = ['+94787459795']
-global.ownernomer = '+94787459795'
+global.owner = ['+94723891381']
+global.premium = ['+9472389131']
+global.ownernomer = '+94723891381'
 global.ownername = '💜Raveesha Dilshan💜'
 global.botname = '💜Raveesha-bot💜'
 global.footer = '©ᎡᎠᏴ ᎷϴᎠՏ.'
